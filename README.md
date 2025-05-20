@@ -1,6 +1,6 @@
 # 🌸 Affirmation Generator 🌸
 
-A cute and uplifting **Python project** that gives you a random affirmation every time you run it. Personalized and made with 💖 for anyone learning to code — especially those on their journey into AI like me!
+A cute and uplifting **Python project** that gives you a random affirmation every time you run it. Personalized and made with 💖 for anyone learning to code — especially those on their journey like me!
 
 ---
 
